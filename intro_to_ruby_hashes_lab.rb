@@ -1,4 +1,4 @@
-monopoly =  {
+base_bash =  {
   :railroads=>
   {
     :pieces=>4,
